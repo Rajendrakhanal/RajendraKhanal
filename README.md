@@ -26,6 +26,9 @@ You can click the Preview link to take a look at your changes.
 <!--FOR GITHUB stats-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajendraKhanal&show_icons=true&theme=nightowl)
 
+<!--FOR GRAPH-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajendrakhanal&theme=monokai)
+
 <!--FOR GITHUB STREAK-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RajendraKhanal&theme=dark&background=000000)](https://git.io/streak-stats)
 
