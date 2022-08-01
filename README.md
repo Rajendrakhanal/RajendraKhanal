@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RajendraKhanal&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--FOR MOST USED GITHUB LANGUAGES STATS-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajendraKhanal&layout=compact&theme=vision-friendly-dark)](https://github.com/rajendra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrakhanal&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rajendrakhanal)
 
