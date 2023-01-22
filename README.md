@@ -27,6 +27,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--FOR GITHUB STREAK-->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RajendraKhanal&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RajendraKhanal&theme=yeblu&background=000000)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrakhanal&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)
+
+![Rajendra GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajendrakhanal&show_icons=true&theme=yeblu&background=000000&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrakhanal&theme=yeblu&background=000000&hide_border=false&include_all_commits=true&count_private=true)
