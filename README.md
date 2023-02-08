@@ -27,9 +27,15 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--FOR GITHUB STREAK-->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RajendraKhanal&theme=yeblu&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RajendraKhanal&theme=yeblu)](https://git.io/streak-stats)
 
+[![Rajendra's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rajendrakhanal&count_private=true&line_height=24&show_icons=true&hide_border=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+[![Rajendra's Language stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rajendrakhanal&layout=compact&langs_count=7&role=OWNER,COLLABORATOR&card_width=250&hide=jupyter%20notebook&hide_border=true&theme=dracula&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
-![Rajendra GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajendrakhanal&show_icons=true&theme=yeblu&background=000000&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrakhanal&theme=yeblu&background=000000&hide_border=false&include_all_commits=true&count_private=true)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rajendra-khanal-a9b994215/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RajendraKhanal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rajendra.khanal.549221/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rajendrakhanal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rajendra.k_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rajendrakhanal" height="30" width="40" /></a>
+<a href = "mailto: khanalrajendra111@gmail.com" target="_blank"><img align ="center" src="https://user-images.githubusercontent.com/31175326/185788318-1613019b-4a13-4459-8ac9-7ad3136004c6.png" alt="khanalrajendra111@gmail.com" height="40" width="40" /></a>
+</p>
